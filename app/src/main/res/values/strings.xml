@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="todo_list_view">ToDo list !</string>
+    <string name="textViewTodoDetail">TodoDetails</string>
+    <string name="todo_complete">Finished ToDo??</string>
+    <string name="textViewIntentData"></string>
+    <string name="detail">Details</string>
+    <string name="buttonTodoDetailText">Details</string>
+    <string name="request_code_mismatch">requestCode in intent does not match the parent requestCode</string>
+    <string name="back_button_pressed">Back button pressed</string>
+
+    <string-array name="todo">
+        <item>Wake up</item>
+        <item>Workout and Meditate</item>
+        <item>Achieve one of your targets</item>
+        <item>Go out with your Friends</item>
+        <item>Sleep in time</item>
+    </string-array>
+    <string-array name="todo_detail">
+        <item>Wake up is generally not a pleasant activity but it does happen once a day!</item>
+        <item>Workout and Meditation keep you fresh and healthy. So do it!!  </item>
+        <item>Work for your goals. Get at least a step closer.</item>
+        <item>Chill with your friends. Keeps the bonding strong!!</item>
+        <item>At least 8 hours of sleep is necessary. </item>
+    </string-array>
+
+</resources>
